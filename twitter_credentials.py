@@ -1,6 +1,6 @@
 #Twitter login credentials
 
-ckey="MzxUF1Bq3sGSztq6nshOl7XKH"
-csecret="w2T2g63DjdntDmJ2TSqnm4vPSIfoPoSBkOCNpatpyg2pyJS4De"
-atoken="1166693799399002113-5BG2eH2CkAAPLyhCuc8phpyoufNmuE"
-asecret="CMdsUNytvuAVpPW9erNXQuSFajRRiv51LpORaUKlncftE"
+ckey="********"
+csecret="*********"
+atoken="**********"
+asecret="**********"
