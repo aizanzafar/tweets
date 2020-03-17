@@ -19,10 +19,10 @@ import string
 #Access Twitter
 
 # Set access tokens
-consumer_key = 'iGLfRu2qxwPcmYeO5XkG7Oglz'
-consumer_secret = 'J30mdR5L71EZohcS49DzQUfwTsKNJLfxTQP52B9HDua5qPa34V'
-access_key= '720484915259817986-lNyssG1PquSV6eiyCDUR7ZGRqLgCKVJ'
-access_secret = 'UE3whOYwuVepPGC8w8re9lrxusxcAOKfFsVu58Yh5BLTQ'
+consumer_key = '*******'
+consumer_secret = '*********'
+access_key= '*******'
+access_secret = '*********'
 
 # Pass twitter credentials to tweepy
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
